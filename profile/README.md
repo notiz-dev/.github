@@ -1,6 +1,6 @@
 # Hey, this is notiz\* 👋
 
-![notiz.dev banner image](https://raw.githubusercontent.com/notiz-dev/.github/ff956a072147c1ced04fe3bef49c89f8c9cfb113/profile/banner.png)
+![notiz.dev banner image](banner.png)
 
 We love sharing our experiences about Angular, NestJS, Prisma and more with developers through writing, video workshops and publishing Open Source projects. We are excited about the upcoming years of web development and hope to make some friends along the way.
 
