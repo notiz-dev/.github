@@ -1,5 +1,7 @@
 # Hey, this is notiz\* 👋
 
+![notiz.dev banner image](https://raw.githubusercontent.com/notiz-dev/notiz/master/src/assets/img/featured.png)
+
 We love sharing our experiences about Angular, NestJS, Prisma and more with developers through writing, video workshops and publishing Open Source projects. We are excited about the upcoming years of web development and hope to make some friends along the way.
 
 _\* notiz [noˈtiːt͡s] - (german) short, brief, written record_
