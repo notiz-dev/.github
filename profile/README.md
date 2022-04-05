@@ -17,7 +17,7 @@ We even got the chance of hosting video workshops about NestJS and Prisma:
 
 ## 💻 Developer Team
 
-Need a developer team for your next project idea 💡? We can help ypu develop software tailored specific to your business. Learn more about what we do in our [portfolio](https://portfolio.notiz.dev/) or [send us a message](mailto:hi@notiz.dev).
+Need a developer team for your next project idea 💡? We can help you develop software tailored specific to your business. Learn more about what we do in our [portfolio](https://portfolio.notiz.dev/) or [send us a message](mailto:hi@notiz.dev).
 
 ## ❤️ Open Source
 
